@@ -8,15 +8,20 @@ Este repositorio contiene un análisis completo de los accidentes de tránsito e
 
 - `data/raw/`: Datos originales (sin modificar)
 - `data/processed/`: Datos limpios y transformados
+- `notebooks/`: Análisis exploratorio en Jupyter Notebooks
 - `scripts/`: Scripts de Python para limpieza y transformación
 - `dashboards/`: Dashboard interactivo en Power BI
+- `images/`: Imágenes y visualizaciones usadas en el README
 
 
 ## Objetivo
 
 Identificar patrones en los accidentes de tránsito para proponer mejoras en la seguridad vial.
 
-## Autor
+# Datos originales
 
-**Tu nombre aquí**  
-[LinkedIn](https://www.linkedin.com/in/tu-perfil/) | [GitHub](https://github.com/tu_usuario)
+Los datos de accidentes de tránsito en Colombia se obtuvieron del portal de Datos Abiertos del Gobierno de Colombia:
+
+- Fuente: [Accidentalidad vial en Colombia](https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/about_data)
+- Formato: CSV
+- Ubicación: `/data/raw/ACCIDENTES_DE_TRANSITO_DESDE_MARZO__2017_A_DICIEMBRE_DE_2022_20250527 (1)`
