@@ -1,0 +1,57 @@
+[33mcommit 2a2c1c1aa384dd9945b34249eb3227e84d9cc073[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yacuervo <yamithcuervo@gmail.com>
+Date:   Wed May 28 12:06:41 2025 -0500
+
+    Agrego archivo de limpieza de datos a la carpeta processed
+
+[33mcommit 93712566d082c4695db90b07ab83801713a8a48f[m
+Author: yacuervo <yamithcuervo@gmail.com>
+Date:   Wed May 28 10:08:17 2025 -0500
+
+    Agrego archivo .gitignore para ignorar archivos venc y checkpoints
+
+[33mcommit f762f44093d7d773976805b8a6215fccf179d0cf[m
+Author: yacuervo <yamithcuervo@gmail.com>
+Date:   Tue May 27 21:16:09 2025 -0500
+
+    Agrego archivo requirements.txt con dependencias
+
+[33mcommit 9b98139981d0bcd925649cba7f93761f6970c59b[m
+Author: Yamith Arley Cuervo Corredor <71407957+YACUERVO@users.noreply.github.com>
+Date:   Tue May 27 20:48:16 2025 -0500
+
+    Update README.md
+    
+    Agregando informacion del dataset
+
+[33mcommit 8a46afdf13234dfb8708fc46b0f32e70f4275b36[m
+Author: yacuervo <yamithcuervo@gmail.com>
+Date:   Tue May 27 20:42:14 2025 -0500
+
+    Agrego dataset original de accidentes de transito en Colombia
+
+[33mcommit e7e654113e27b6cf5fd3a9b58dd4b5d47ed5b341[m
+Author: yacuervo <yamithcuervo@gmail.com>
+Date:   Tue May 27 20:19:51 2025 -0500
+
+    Agrego nuevamente la estructura de carpetas sin conflicto
+
+[33mcommit 20da78910f5ed3d4982143bdec14b37eca32ee59[m
+Author: Yamith Arley Cuervo Corredor <71407957+YACUERVO@users.noreply.github.com>
+Date:   Tue May 27 19:25:06 2025 -0500
+
+    Update README.md
+    
+    Agrego descripcion inicial al README
+
+[33mcommit af424dc4a0828076ea188d88084c95ac63cf1127[m
+Author: Yamith Arley Cuervo Corredor <71407957+YACUERVO@users.noreply.github.com>
+Date:   Tue May 27 18:39:57 2025 -0500
+
+    Update README.md
+
+[33mcommit 188746b27d38fcb05e309f9f40c508b8bfdb12f2[m
+Author: Yamith Arley Cuervo Corredor <71407957+YACUERVO@users.noreply.github.com>
+Date:   Tue May 27 18:28:43 2025 -0500
+
+    Initial commit

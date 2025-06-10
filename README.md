@@ -25,3 +25,7 @@ Los datos de accidentes de tránsito en Colombia se obtuvieron del portal de Dat
 - Fuente: [Accidentalidad vial en Colombia](https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/about_data)
 - Formato: CSV
 - Ubicación: `/data/raw/ACCIDENTES_DE_TRANSITO_DESDE_MARZO__2017_A_DICIEMBRE_DE_2022_20250527 (1)`
+
+
+# 02 - Transformación de Datos para Power BI
+Este notebook genera los archivos CSV agregados que alimentarán el dashboard en Power BI.
