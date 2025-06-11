@@ -29,3 +29,21 @@ Los datos de accidentes de tránsito en Colombia se obtuvieron del portal de Dat
 
 # 02 - Transformación de Datos para Power BI
 Este notebook genera los archivos CSV agregados que alimentarán el dashboard en Power BI.
+
+Tabla de hechos: hechos_accidentes.csv
+Contendrá:
+
+# ID (opcional)
+# ID_fecha
+# ID_departamento
+# ID_municipio
+# ID_tipo_accidente
+# Número de heridos
+# Número de muertos
+# Total de accidentes (1 por fila o agregados)
+
+🔹 Dimensiones:
+# dim_fecha.csv: fecha, año, mes, día de semana, etc.
+# dim_departamento.csv: ID, nombre del departamento
+# dim_municipio.csv: ID, nombre del municipio
+# dim_tipo_accidente.csv: ID, nombre del tipo de accidente
